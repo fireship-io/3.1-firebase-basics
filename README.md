@@ -1,7 +1,7 @@
-## Firebase - Back to Basics
+## Firebase - Back to the Basics
 
-Learn the basics of 
+Learn the basics of Firebase on the web. 
 
-Watch the Full [Firebase Basics]() episode on YouTube. 
+For a full breakdown of the code, watch the Full [Firebase Basics on YouTube]() or read the [Firebas Web Quickstart](). 
 
 Fireship Season 3. Episode 1. 
