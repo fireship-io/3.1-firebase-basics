@@ -88,6 +88,8 @@ auth.onAuthStateChanged(user => {
     } else {
         // Unsubscribe when the user signs out
         unsubscribe && unsubscribe();
+        // Clean createThing button onClick events to avoid calling it when user signsOut
+        createThing.onClick = null;
     }
 });
 
